@@ -1,0 +1,18 @@
+.shopinstylediv {
+ background-image: url('https://img.freepik.com/free-vector/flat-hand-drawn-wavy-multi-colored-groovy-background_23-2148848391.jpg?w=740&t=st=1674982044~exp=1674982644~hmac=a25b0c3a17855d1949baec1689d6ae42603f3d307f871ab1984db6378ea2f8da');
+ 
+    }
+.heading{
+    text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.836);
+    font-weight: bolder;
+}
+.parent{
+    margin-top: 50px;
+}
+.card-img-top:hover{
+    transform: scale(1.07);
+    transition: 0.3s;
+}
+.card-img-top{
+    transition: 0.3s;
+}
